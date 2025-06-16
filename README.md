@@ -1,46 +1,54 @@
 <h1 align="center">Loopstudios Landing Page 🎥</h1>
-<p>Este proyecto es una solución para el reto "Loopstudios Landing Page" de Frontend Mentor. Se trata de un desafío diseñado para poner a prueba y mejorar las habilidades en CSS Grid, además de reforzar conceptos de diseño y maquetación responsiva.</p>
-<h1 align="center">Tecnologías Utilizadas</h1>
+
+<p align="left">
+  <a href="README_ES.md" target="_blank">
+    Ver README en Español
+  </a>
+</p>
+
+<p>This repository contains the solution for the Frontend Mentor "Loopstudios Landing Page" challenge. It’s a project designed to practice and improve CSS Grid skills, while strengthening concept knowledge in responsive design and UI.</p>
+<hr>
+
+<h1 align="center">Technologies Used</h1>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" width="40px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" width="40px">
 </div>
 <hr>
-<h1 align="center">Objetivo</h1>
+
+<h1 align="center">Objective</h1>
 <ul>
-  <li>Practicar CSS Grid para construir una página de aterrizaje atractiva y bien estructurada.</li>
-  <li>Crear un diseño responsivo que se adapte a diferentes tamaños de pantalla.</li>
-  <li>Mejorar habilidades en la creación de interfaces visualmente atractivas y funcionales.</li>
-</ul>
-<hr>
-<h1 align="center">Características Principales</h1>
-<ul>
-  <li><b>Diseño responsivo: </b>Se adapta perfectamente a dispositivos móviles, tablets y escritorios.</li>
-  <li><b>Uso de CSS Grid: </b>Para organizar el contenido de manera eficiente y escalable..</li>
-  <li><b>Diseño atractivo y moderno: </b>Siguiendo las especificaciones del reto de Frontend Mentor.</li>
-  <li><b>Estructura semántica en HTML: </b>Para mejorar la accesibilidad y SEO.</li>
-</ul>
-<hr>
-<h1 align="center">Aprendizajes Adquiridos</h1>
-<p>Durante el desarrollo de este proyecto, mejoré mis habilidades en:</p>
-<ul>
-  <li><b>CSS Grid </b>para gestionar la disposición de los elementos de la página.</li>
-  <li>Media queries para hacer que el diseño sea completamente responsivo.</li>
-  <li>Manejo de imágenes y fondos para crear un diseño visualmente atractivo.</li>
-  <li>Buenas prácticas en HTML y CSS para una mejor organización del código.</li>
+  <li>Improve CSS Grid skills by designing a landing page.</li>
+  <li>Create a responsive design that adapts to different screen sizes.</li>
+  <li>Improve UI skills and semantic HTML structure.</li>
 </ul>
 <hr>
 
-### Instalación
+<h1 align="center">Main Features</h1>
+<ul>
+  <li>Responsive design adaptable to all devices.</li>
+  <li>Effective and semantic structure with CSS Grid.</li>
+  <li>Clean and modern UI following Frontend Mentor guidelines.</li>
+</ul>
+<hr>
 
-1. Clona este reposotorio en tu máquina local:
+<h1 align="center">Skills Acquired</h1>
+<ul>
+  <li>CSS Grid for complex, flexible, semantic structures.</li>
+  <li>Media queries for fully responsive design.</li>
+  <li>Managing images and backgrounds to create visually stunning UI.</li>
+  <li>Best practices in HTML and CSS code structure.</li>
+</ul>
+<hr>
+
+<h1 align="center">How to Use</h1>
+
+1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/JordanMedinaOrtiz/LoopstudiosLandingPage.git
-   cd LoopstudiosLandingPage
-   ```
+   git clone https://github.com/JordanMedinaOrtiz/loopstudios-landing-page.git
+   cd loopstudios-landing-page
+2. Open index.html in your browser.
 
-2. Abre el archivo index.html en tu navegador web para ver el proyecto.
-    
-<p>Este reto me permitió consolidar mis conocimientos en CSS Grid y mejorar mi capacidad para crear layouts responsivos y atractivos. Seguiré explorando más proyectos de Frontend Mentor para seguir perfeccionando mis habilidades en desarrollo frontend.</p>
-<p>Puedes ver la demostración del proyecto <a href="https://jordanmedinaortiz.github.io/LoopstudiosLandingPage/" target="_blank">aquí</a></p>
+<p>This challenge helped me consolidate my CSS Grid skills and improve my ability to create responsive and visually striking UI. I'll continue exploring more Frontend Mentor projects to grow my expertise.</p> <p>View the live demonstration <a href="https://jordanmedinaortiz.github.io/loopstudios-landing-page/" target="_blank">here</a>.</p>
+<img src="loopstudios-landing-page.png" alt="Project Preview" title="Loopstudios Landing Page">
